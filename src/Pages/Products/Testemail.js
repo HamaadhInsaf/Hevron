@@ -21,7 +21,7 @@ export default function Testemail() {
                 </div>
                 <div id='Description'>
                     <h1>Test Email</h1>
-                    <h4>$$$</h4>
+                    <h4>FREE</h4>
                     <div id='Buttons'>
                         <img src='/Images/Buy-now.png' alt='Buy now' />
                         <img src='/Images/Add-to-cart.png' alt='Add to cart' />
