@@ -20,7 +20,6 @@ export default function Wordprocessing() {
                     <img src='/Images/Products/Word-processing/Picture-3.jpg' alt='' className='Thumbnail' onClick={ () => Enlargeimage('/Images/Products/Word-processing/Picture-3.jpg', Setenlargedsrc) } />
                 </div>
                 <div className='Images'>
-                    <img src='/Images/Products/Word-processing/Picture-3.jpg' alt='' className='Thumbnail' onClick={ () => Enlargeimage('/Images/Products/Word-processing/Picture-3.jpg', Setenlargedsrc) } />
                     <img src='/Images/Products/Word-processing/Picture-4.png' alt='' className='Thumbnail' onClick={ () => Enlargeimage('/Images/Products/Word-processing/Picture-4.png', Setenlargedsrc) } />
                     <img src='/Images/Products/Word-processing/Picture-5.png' alt='' className='Thumbnail' onClick={ () => Enlargeimage('/Images/Products/Word-processing/Picture-5.png', Setenlargedsrc) } />
                 </div>
